@@ -15,13 +15,13 @@
     "destroy": "cdk destroy"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.0.0-rc.33"
+    "aws-cdk-lib": "2.5.0"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "2.0.0-rc.33",
-    "aws-cdk": "2.0.0-rc.33",
-    "constructs": "10.0.0",
+    "@aws-cdk/assert": "2.5.0",
+    "aws-cdk": "2.5.0",
+    "constructs": "10.0.30",
     "rimraf": "^3.0.2",
-    "typescript": "^4.5.2"
+    "typescript": "^4.5.4"
   }
 }
